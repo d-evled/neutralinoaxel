@@ -1,0 +1,21 @@
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
+.button {
+    background-color: #90b3e5;
+    color: black;
+    font-size: 16px;
+    border-radius: 8px;
+    transition-duration: 0.4s;
+}
+
+.button:hover {
+    background-color: #4085c6;
+    color: white;
+}

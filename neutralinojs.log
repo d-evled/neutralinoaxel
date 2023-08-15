@@ -1,0 +1,143 @@
+INFO 2023-08-11 12:11:02,217 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 samxie@unknown-host
+INFO 2023-08-11 12:15:14,405 Reloading the application... api/debug/debug.cpp:17 samxie@unknown-host
+INFO 2023-08-11 12:15:23,161 Reloading the application... api/debug/debug.cpp:17 samxie@unknown-host
+INFO 2023-08-11 12:15:38,887 Reloading the application... api/debug/debug.cpp:17 samxie@unknown-host
+INFO 2023-08-11 15:36:24,079 Reloading the application... api/debug/debug.cpp:17 samxie@unknown-host
+ERROR 2023-08-11 15:36:24,091 NE_RS_UNBLDRE: Unable to load application resource file /resources/static/js/index.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 15:36:46,249 NE_RS_UNBLDRE: Unable to load application resource file /resources/static/js/index.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 15:36:47,317 NE_RS_UNBLDRE: Unable to load application resource file /resources/posts/index.html api/debug/debug.cpp:20 samxie@unknown-host
+INFO 2023-08-11 15:37:33,376 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 samxie@unknown-host
+ERROR 2023-08-11 15:37:33,715 NE_RS_UNBLDRE: Unable to load application resource file /resources/static/js/index.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 15:37:35,267 NE_RS_UNBLDRE: Unable to load application resource file /resources/settings/index.html api/debug/debug.cpp:20 samxie@unknown-host
+INFO 2023-08-11 15:38:09,857 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 samxie@unknown-host
+ERROR 2023-08-11 15:38:10,149 NE_RS_UNBLDRE: Unable to load application resource file /resources/static/js/index.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 15:38:11,298 NE_RS_UNBLDRE: Unable to load application resource file /resources/settings/index.html api/debug/debug.cpp:20 samxie@unknown-host
+INFO 2023-08-11 15:39:13,882 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 samxie@unknown-host
+ERROR 2023-08-11 15:39:18,131 NE_RS_UNBLDRE: Unable to load application resource file /resources/posts/index.html api/debug/debug.cpp:20 samxie@unknown-host
+INFO 2023-08-11 15:39:23,544 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 samxie@unknown-host
+ERROR 2023-08-11 15:39:24,767 NE_RS_UNBLDRE: Unable to load application resource file /resources/settings/index.html api/debug/debug.cpp:20 samxie@unknown-host
+INFO 2023-08-11 15:39:30,383 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 samxie@unknown-host
+ERROR 2023-08-11 15:42:53,167 NE_RS_UNBLDRE: Unable to load application resource file /resources/posts/index.html api/debug/debug.cpp:20 samxie@unknown-host
+INFO 2023-08-11 15:47:25,885 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 samxie@unknown-host
+ERROR 2023-08-11 15:47:32,066 NE_RS_UNBLDRE: Unable to load application resource file /resources/settings/index.html api/debug/debug.cpp:20 samxie@unknown-host
+INFO 2023-08-11 15:48:00,114 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 samxie@unknown-host
+INFO 2023-08-11 15:49:41,851 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 samxie@unknown-host
+INFO 2023-08-11 16:00:16,256 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 samxie@unknown-host
+ERROR 2023-08-11 16:01:28,706 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+INFO 2023-08-11 16:01:34,163 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 samxie@unknown-host
+ERROR 2023-08-11 16:01:35,155 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 16:01:36,209 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+INFO 2023-08-11 16:03:34,425 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 samxie@unknown-host
+ERROR 2023-08-11 16:03:36,524 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+INFO 2023-08-11 16:04:54,289 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 samxie@unknown-host
+ERROR 2023-08-11 16:04:58,158 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+INFO 2023-08-11 16:08:10,956 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 samxie@unknown-host
+ERROR 2023-08-11 16:08:12,365 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 16:08:25,875 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 16:11:57,663 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 16:14:05,829 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+INFO 2023-08-11 16:14:11,865 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 samxie@unknown-host
+ERROR 2023-08-11 16:14:14,079 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 16:14:16,310 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 16:14:17,326 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 16:14:18,695 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 16:14:19,622 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 16:14:20,498 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 16:14:21,445 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 16:14:22,336 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 16:14:23,597 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 16:14:24,479 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 16:14:25,379 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 16:14:26,279 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 16:14:27,129 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 16:14:28,647 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+INFO 2023-08-11 16:23:54,402 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 samxie@unknown-host
+ERROR 2023-08-11 16:23:56,493 NE_RS_UNBLDRE: Unable to load application resource file /resources/posts/index.html api/debug/debug.cpp:20 samxie@unknown-host
+INFO 2023-08-11 16:24:31,379 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 samxie@unknown-host
+ERROR 2023-08-11 16:24:33,462 NE_RS_UNBLDRE: Unable to load application resource file /resources/posts/index.html api/debug/debug.cpp:20 samxie@unknown-host
+INFO 2023-08-11 16:24:58,014 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 samxie@unknown-host
+ERROR 2023-08-11 16:25:00,262 NE_RS_UNBLDRE: Unable to load application resource file /resources/posts/index.html api/debug/debug.cpp:20 samxie@unknown-host
+INFO 2023-08-11 16:25:58,003 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 samxie@unknown-host
+ERROR 2023-08-11 16:25:59,589 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 16:26:01,103 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 16:26:02,654 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 16:27:13,063 NE_RS_UNBLDRE: Unable to load application resource file /resources/posts/index.html api/debug/debug.cpp:20 samxie@unknown-host
+INFO 2023-08-11 16:27:28,766 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 samxie@unknown-host
+ERROR 2023-08-11 16:27:31,036 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 16:27:34,074 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 16:27:36,139 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 16:27:37,134 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 16:28:04,255 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 16:28:05,296 NE_RS_UNBLDRE: Unable to load application resource file /resources/settings/index.html api/debug/debug.cpp:20 samxie@unknown-host
+INFO 2023-08-11 16:28:09,193 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 samxie@unknown-host
+INFO 2023-08-11 16:29:42,476 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 samxie@unknown-host
+ERROR 2023-08-11 16:29:45,552 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 16:29:50,693 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 16:33:43,035 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 16:33:45,434 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 16:33:48,095 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 16:34:04,175 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+INFO 2023-08-11 16:34:19,890 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 samxie@unknown-host
+ERROR 2023-08-11 16:34:22,436 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+INFO 2023-08-11 16:34:34,039 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 samxie@unknown-host
+ERROR 2023-08-11 16:34:35,636 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-11 16:34:38,473 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+INFO 2023-08-14 12:00:36,961 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 samxie@unknown-host
+ERROR 2023-08-14 12:00:43,676 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 12:02:12,772 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 12:02:14,800 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+INFO 2023-08-14 12:02:21,165 Auth info was exported to ./.tmp/auth_info.json api/debug/debug.cpp:17 samxie@unknown-host
+ERROR 2023-08-14 12:02:22,944 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 12:02:32,163 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 12:03:09,383 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 12:03:11,332 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 12:03:27,443 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 12:05:56,778 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 12:10:10,129 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 12:10:13,529 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 12:21:56,201 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 12:22:17,926 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 12:23:10,953 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 12:41:36,492 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 12:58:22,694 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 12:58:53,647 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 12:59:00,977 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:03:20,016 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:03:22,707 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:03:37,449 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:04:15,250 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:04:26,778 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:05:26,929 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:07:30,425 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:07:31,572 NE_RS_UNBLDRE: Unable to load application resource file /resources/style.css api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:08:43,107 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:08:45,031 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:08:52,106 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:09:04,343 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:10:21,350 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:10:46,226 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:13:00,781 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:13:30,159 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:13:49,362 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:14:17,811 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:17:24,214 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:18:01,266 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:19:17,496 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:20:39,882 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:21:22,546 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:21:48,339 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:23:42,108 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:24:17,559 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:25:20,644 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:25:24,053 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:26:05,716 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:26:08,365 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:26:09,544 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:26:13,255 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:26:27,059 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:26:28,731 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:26:30,910 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:26:59,337 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:27:00,812 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:27:01,832 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
+ERROR 2023-08-14 13:27:03,028 NE_RS_UNBLDRE: Unable to load application resource file /resources/plotly-2.25.2.min.js api/debug/debug.cpp:20 samxie@unknown-host
